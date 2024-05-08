@@ -1,6 +1,6 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
-###  DATE: 08.05.2024
+###  DATE: 05.04.2024
 
 ###  NAME: Jayasuryaa k
 
